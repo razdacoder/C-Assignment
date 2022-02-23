@@ -1,0 +1,15 @@
+C:\Users\user\Documents\ass\bin\Debug\net6.0\ass.exe
+C:\Users\user\Documents\ass\bin\Debug\net6.0\ass.deps.json
+C:\Users\user\Documents\ass\bin\Debug\net6.0\ass.runtimeconfig.json
+C:\Users\user\Documents\ass\bin\Debug\net6.0\ass.dll
+C:\Users\user\Documents\ass\bin\Debug\net6.0\ref\ass.dll
+C:\Users\user\Documents\ass\bin\Debug\net6.0\ass.pdb
+C:\Users\user\Documents\ass\obj\Debug\net6.0\ass.csproj.AssemblyReference.cache
+C:\Users\user\Documents\ass\obj\Debug\net6.0\ass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\ass\obj\Debug\net6.0\ass.AssemblyInfoInputs.cache
+C:\Users\user\Documents\ass\obj\Debug\net6.0\ass.AssemblyInfo.cs
+C:\Users\user\Documents\ass\obj\Debug\net6.0\ass.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\ass\obj\Debug\net6.0\ass.dll
+C:\Users\user\Documents\ass\obj\Debug\net6.0\ref\ass.dll
+C:\Users\user\Documents\ass\obj\Debug\net6.0\ass.pdb
+C:\Users\user\Documents\ass\obj\Debug\net6.0\ass.genruntimeconfig.cache
